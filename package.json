@@ -1,7 +1,7 @@
 {
   "name": "react-native-video-controls",
-  "version": "2.2.3",
-  "description": "A set of GUI controls for the react-native-video component",
+  "version": "2.3.0",
+  "description": "A set of GUI controls for the react-native-video component, update to react-native-video 4.4.4",
   "license": "MIT",
   "main": "VideoPlayer.js",
   "keywords": [
@@ -22,7 +22,7 @@
     "lodash": "^4.16.4"
   },
   "peerDependencies": {
-    "react-native": ">=0.46.0",
-    "react-native-video": "^2.0.0"
+    "react-native": ">=0.59.0",
+    "react-native-video": "^4.4.4"
   }
 }
